@@ -1,12 +1,72 @@
-# React + Vite
+# 📝 ToDoList App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **ToDo List Application** built with **React (Vite)** and **Tailwind CSS**.  
+This app allows users to add, edit, delete, and mark tasks as completed. Tasks are saved in **localStorage** so they persist even after page reloads.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ➕ Add new tasks  
+- ✏️ Edit existing tasks  
+- ✅ Mark tasks as completed / uncompleted  
+- 🗑 Delete tasks  
+- 🔎 Filter tasks by **All / Active / Completed**  
+- 💾 Persistent storage using **localStorage**  
+- 🎨 Modern UI styled with **Tailwind CSS**  
+- ⚡ Built with **Vite** for fast development  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React (Vite)**
+- **Tailwind CSS**
+- **React Icons**
+- **LocalStorage (for persistence)**
+
+---
+
+## 📦 Installation & 📂 Project Setup
+
+1.  Clone the repository:
+    
+    git clone https://github.com/your-username/todolist-app.git
+
+2. Navigate to project folder:
+
+    cd todolist-app
+
+3. Install dependencies:
+
+    npm install
+
+4. Run the app in development mode:
+
+    npm run dev
+
+5. Open in your browser at:
+
+    http://localhost:5173/
+
+
+---
+
+## 📖 How to Use
+
+1. Enter a task in the input field and click Add.
+
+2. Click the checkbox to mark a task completed.
+
+3. Use the Edit button to update a task.
+
+4. Use the Delete button to remove a task.
+
+5. Use filter buttons (All / Active / Completed) to manage tasks.
+
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
