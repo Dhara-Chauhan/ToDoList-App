@@ -31,11 +31,11 @@ This app allows users to add, edit, delete, and mark tasks as completed. Tasks a
 
 1.  Clone the repository:
     
-    git clone https://github.com/your-username/todolist-app.git
+    git clone https://github.com/Dhara-Chauhan/ToDoList-App.git
 
 2. Navigate to project folder:
 
-    cd todolist-app
+    cd ToDoList-App
 
 3. Install dependencies:
 
